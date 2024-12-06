@@ -1,6 +1,6 @@
 # PDF Scan Automation
 ## Context
-At my previous role, I was tasked with the secure document archival and destruction process. This involved scanning documents before sending them to a shredding company.
+At my current role, I was tasked with the secure document archival and destruction process. This involved scanning documents before sending them to a shredding company.
 - Scanned documents were sent to my workspace in the H: drive via a printer.
 - I noticed that this process was time-consuming due to frequent printer jams.
 - To minimize the impact of jams, I split documents into smaller stacks, reducing the number of pages needing rescanning if a jam occurred.
