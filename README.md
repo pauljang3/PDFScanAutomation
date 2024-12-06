@@ -1,4 +1,12 @@
 # PDF Scan Automation
+## Context
+At my previous role, I was tasked with the secure document archival and destruction process. This involved scanning documents before sending them to a shredding company.
+- Scanned documents were sent to my workspace in the H: drive via a printer.
+- I noticed that this process was time-consuming due to frequent printer jams.
+- To minimize the impact of jams, I split documents into smaller stacks, reducing the number of pages needing rescanning if a jam occurred.
+- However, the task of combining the multiple PDF files into one was also time-consuming. To address this, I developed a Python script that automated the combining process.
+
+The script reduced this process of combining PDF files, moving to the archived file server, and clearing the H: drive from 1 minute to 9 seconds, resulting in a 85% improvement in efficiency.
 
 ## Overview
 This Python script automates the process of managing scanned PDF files. It:
