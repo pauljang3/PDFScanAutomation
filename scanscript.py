@@ -78,8 +78,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     # Paths using UNC for network drives
-    h_drive_path = r"\\hkjserver\Users\pjang"
-    z_drive_path = r"\\hkjserver\ARCHIVED_FILES"
+    h_drive_path = r"\\server\Users\name"
+    z_drive_path = r"\\servername\folder"
     
     # Run the automation with the document number provided as an argument
     automate_pdf_processing(h_drive_path, z_drive_path, args.document_number)
